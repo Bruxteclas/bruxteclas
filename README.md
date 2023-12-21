@@ -1,17 +1,17 @@
-<h2 align="left">Hi 👋! My name is Paulo Eduardo  and I'm a estudante de Administração e Ciência de dados</h2>
+<h2 align="left">Hi 👋! My name is Paulo Eduardo, and I am a student of Business Administration and Data Science</h2>
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
   
- - 🌱 Estou cursando Administração na Esbam e, simultaneamente, realizo o curso profissionalizante em Ciência de Dados na Ebac.
+ - 🌱 I am pursuing Business Administration at Esbam and, concurrently, I am enrolled in the professional Data Science course at Ebac.
   
- - 🔭 Estou em busca da minha primeira opurtunidade de emprego na área de Ciência de dados e Ánalise de dados.
+ - 🔭 I am seeking my first job opportunity in the field of Data Science and Data Analysis.
   </p>
   
- - 💬 Tenho 20 anos e atualmente moro Brasil. Tenho o espanhol básico e experiência em Python, Análise de Dados, Visualização de Dados e Machine Learning. Também sou músico, o que me dotou de habilidades valiosas, como percepção apurada de padrões, análise minuciosa e uma abordagem criativa, competências que se entrelaçam perfeitamente com o mundo da ciência de dados.
- - ⚡ Nas horas vagas para o lazer gosto de jogar futebol, além de jogar vídeo game e tocar!🎹, Tenho a convicção de que nossos interesses individuais não apenas aprimoram nossa compreensão do mundo, mas também desempenham um papel fundamental na solução de desafios.
+ - 💬I am 20 years old and currently reside in Brazil. I have basic proficiency in Spanish and experience in Python, Data Analysis, Data Visualization, and Machine Learning. Additionally, I am a musician, which has endowed me with valuable skills such as keen pattern recognition, meticulous analysis, and a creative approach—aptitudes seamlessly intertwined with the realm of data science.
+ - ⚡ In my leisure time, I enjoy playing football, indulging in video games, and playing the piano! 🎹 I am convinced that our individual interests not only enhance our understanding of the world but also play a fundamental role in tackling challenges.
 </details>
 
 <div align="center">
@@ -21,20 +21,20 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Projeto Previsão de Renda](https://github.com/Bruxteclas/Projeto-previsao-de-renda)
-- [Árvore de Classificação](https://github.com/Bruxteclas/arvore-de-classificacao)
-- [Análise de Regressão](https://github.com/Bruxteclas/Analise-de-regressao)
-- [Visualização de uma Árvore de Decisão para Regressão](https://github.com/Bruxteclas/Visualiza-ao-de-uma-Arvore-de-Decisao-para-Regressao)
-- [Prevendo Renda com Variáveis Qualitativas](https://github.com/Bruxteclas/Prevendo-Renda-com-Variaveis-Qualitativas)
+- [Income Prediction Project](https://github.com/Bruxteclas/Projeto-previsao-de-renda)
+- [Decision Tree Classification](https://github.com/Bruxteclas/arvore-de-classificacao)
+- [Regression Analysis](https://github.com/Bruxteclas/Analise-de-regressao)
+- [Visualization of a Decision Tree for Regression](https://github.com/Bruxteclas/Visualiza-ao-de-uma-Arvore-de-Decisao-para-Regressao)
+- [Income Prediction with Qualitative Variables](https://github.com/Bruxteclas/Prevendo-Renda-com-Variaveis-Qualitativas)
 
 
-### 🔥Habilidades 
-  <!-- Habilidades: Linguagens de Programação -->
-Linguagens de Programação: <div align="left">
+### 🔥Skills 
+  <!-- Skills:Programming Languages -->
+Programming Languages: <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
-### 💻Ferramentas e estruturas 
+### 💻Tools and Frameworks
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
