@@ -34,6 +34,7 @@
 - [telemarketing](https://github.com/Bruxteclas/telemarketing)
 - [Analise-Credito-SQL-AWS](https://github.com/Bruxteclas/Analise-Credito-SQL-AWS)
 - [Projeto-Netflix](https://github.com/Bruxteclas/Projeto-Netflix)
+- [Projetos realizados no Power Bi](https://github.com/Bruxteclas/Analise-de-Dados-Power-Bi/tree/main)
 
 
 ### 🔥Skills 
