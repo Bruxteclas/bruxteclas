@@ -34,6 +34,15 @@
 - [telemarketing](https://github.com/Bruxteclas/telemarketing)
 - [Analise-Credito-SQL-AWS](https://github.com/Bruxteclas/Analise-Credito-SQL-AWS)
 - [Projeto-Netflix](https://github.com/Bruxteclas/Projeto-Netflix)
+- [Probabilidade com dados de peso de pacotes de ração](https://github.com/Bruxteclas/Probabilidade-)
+- [Previsão de doenças Cardíacas](https://github.com/Bruxteclas/previsao-de-doencas-cardiacas)
+- [Análise de Dados de Nascimento 2019](https://github.com/Bruxteclas/Analise-de-Dados-de-Nascimentos-em-2019)
+- [Análise de Padrões de Inadimplência em dados de crédito](https://github.com/Bruxteclas/Analisando-Padroes-de-Inadimplencia-em-Dados-de-Credito)
+- [Criação de uma Regressão Linear simples com dados de gorjetas](https://github.com/Bruxteclas/Regressao-Linear-Simples-Gorjetas)
+- [Classificação de Crédito](https://github.com/Bruxteclas/Classificacao-de-credito)
+- [Programação Orientada com dados da ação da Coca-Cola](https://github.com/Bruxteclas/Programacao-orientada-a-objeto-Acoes-da-coca-cola-)
+- [Análise Financeira e Visualização de Dados](https://github.com/Bruxteclas/Gr-ficos-interativos)
+- [Análise de Dados com PostgreSQL](https://github.com/Bruxteclas/Analise-de-dados-com-PostgreSQL)
 - [Projetos realizados no Power Bi](https://github.com/Bruxteclas/Analise-de-Dados-Power-Bi/tree/main)
 
 
