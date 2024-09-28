@@ -41,6 +41,7 @@
 - [Criação de uma Regressão Linear simples com dados de gorjetas](https://github.com/Bruxteclas/Regressao-Linear-Simples-Gorjetas)
 - [Classificação de Crédito](https://github.com/Bruxteclas/Classificacao-de-credito)
 - [Programação Orientada com dados da ação da Coca-Cola](https://github.com/Bruxteclas/Programacao-orientada-a-objeto-Acoes-da-coca-cola-)
+- [Análise de Personalidade com Machine learning](https://github.com/Bruxteclas/Analise-de-Personalidade-com-Machine-Learning)
 - [Análise Educacional Saeb](https://github.com/Bruxteclas/Projeto-de-Analise-Educacional/tree/main)
 - [Análise Financeira e Visualização de Dados](https://github.com/Bruxteclas/Gr-ficos-interativos)
 - [Análise de Dados com PostgreSQL](https://github.com/Bruxteclas/Analise-de-dados-com-PostgreSQL)
