@@ -22,31 +22,41 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Bruxteclas&theme=blue-green" alt="GitHub Stats" />
 </div>
 
-
 <!-- Portfolio -->
 ## Portfolio:
-- [Income Prediction Project](https://github.com/Bruxteclas/Projeto-previsao-de-renda)
-- [Decision Tree Classification](https://github.com/Bruxteclas/arvore-de-classificacao)
-- [Regression Analysis](https://github.com/Bruxteclas/Analise-de-regressao)
-- [Visualization of a Decision Tree for Regression](https://github.com/Bruxteclas/Visualiza-ao-de-uma-Arvore-de-Decisao-para-Regressao)
-- [Income Prediction with Qualitative Variables](https://github.com/Bruxteclas/Prevendo-Renda-com-Variaveis-Qualitativas)
-- [RFV-e-Streamlit](https://github.com/Bruxteclas/RFV-e-Streamlit)
-- [telemarketing](https://github.com/Bruxteclas/telemarketing)
-- [Analise-Credito-SQL-AWS](https://github.com/Bruxteclas/Analise-Credito-SQL-AWS)
-- [Projeto-Netflix](https://github.com/Bruxteclas/Projeto-Netflix)
-- [Probabilidade com dados de peso de pacotes de ração](https://github.com/Bruxteclas/Probabilidade-)
-- [Previsão de doenças Cardíacas](https://github.com/Bruxteclas/previsao-de-doencas-cardiacas)
-- [Análise de Dados de Nascimento 2019](https://github.com/Bruxteclas/Analise-de-Dados-de-Nascimentos-em-2019)
-- [Análise de Padrões de Inadimplência em dados de crédito](https://github.com/Bruxteclas/Analisando-Padroes-de-Inadimplencia-em-Dados-de-Credito)
-- [Criação de uma Regressão Linear simples com dados de gorjetas](https://github.com/Bruxteclas/Regressao-Linear-Simples-Gorjetas)
-- [Classificação de Crédito](https://github.com/Bruxteclas/Classificacao-de-credito)
-- [Programação Orientada com dados da ação da Coca-Cola](https://github.com/Bruxteclas/Programacao-orientada-a-objeto-Acoes-da-coca-cola-)
-- [Análise de Personalidade com Machine learning](https://github.com/Bruxteclas/Analise-de-Personalidade-com-Machine-Learning)
-- [Análise Educacional Saeb](https://github.com/Bruxteclas/Projeto-de-Analise-Educacional/tree/main)
-- [Análise Financeira e Visualização de Dados](https://github.com/Bruxteclas/Gr-ficos-interativos)
-- [Análise de Dados com PostgreSQL](https://github.com/Bruxteclas/Analise-de-dados-com-PostgreSQL)
-- [Projetos realizados no Power Bi](https://github.com/Bruxteclas/Analise-de-Dados-Power-Bi/tree/main)
 
+### 🌟 Machine Learning Projects
+- [Income Prediction Project](https://github.com/Bruxteclas/Projeto-previsao-de-renda) - Previsão de renda com variáveis qualitativas.
+- [Decision Tree Classification](https://github.com/Bruxteclas/arvore-de-classificacao) - Classificação usando árvore de decisão.
+- [Income Prediction with Qualitative Variables](https://github.com/Bruxteclas/Prevendo-Renda-com-Variaveis-Qualitativas) - Projeto de previsão de renda com variáveis categóricas.
+- [Previsão de doenças Cardíacas](https://github.com/Bruxteclas/previsao-de-doencas-cardiacas) - Previsão de doenças cardíacas com machine learning.
+- [Classificação de Crédito](https://github.com/Bruxteclas/Classificacao-de-credito) - Modelo de classificação para crédito.
+- [Análise de Personalidade com Machine learning](https://github.com/Bruxteclas/Analise-de-Personalidade-com-Machine-Learning) - Estudo de personalidades usando machine learning.
+
+### 📊 Data Analysis Projects
+- [Análise de Padrões de Inadimplência em dados de crédito](https://github.com/Bruxteclas/Analisando-Padroes-de-Inadimplencia-em-Dados-de-Credito) - Análise de padrões de inadimplência.
+- [Análise de Dados de Nascimento 2019](https://github.com/Bruxteclas/Analise-de-Dados-de-Nascimentos-em-2019) - Análise de dados demográficos de nascimentos.
+- [Análise Financeira e Visualização de Dados](https://github.com/Bruxteclas/Gr-ficos-interativos) - Análise financeira com gráficos interativos.
+- [Análise Educacional Saeb](https://github.com/Bruxteclas/Projeto-de-Analise-Educacional/tree/main) - Projeto de análise educacional com base em dados do Saeb.
+- [Projeto-Netflix](https://github.com/Bruxteclas/Projeto-Netflix) - Análise de dados de filmes e séries da Netflix.
+
+### 📈 Regression Projects
+- [Regression Analysis](https://github.com/Bruxteclas/Analise-de-regressao) - Análise de regressão linear.
+- [Visualization of a Decision Tree for Regression](https://github.com/Bruxteclas/Visualiza-ao-de-uma-Arvore-de-Decisao-para-Regressao) - Visualização de uma árvore de decisão para regressão.
+- [Criação de uma Regressão Linear simples com dados de gorjetas](https://github.com/Bruxteclas/Regressao-Linear-Simples-Gorjetas) - Regressão linear simples com dados de gorjetas.
+
+### 💻 Data Engineering & SQL Projects
+- [Analise-Credito-SQL-AWS](https://github.com/Bruxteclas/Analise-Credito-SQL-AWS) - Análise de crédito com SQL e AWS.
+- [Análise de Dados com PostgreSQL](https://github.com/Bruxteclas/Analise-de-dados-com-PostgreSQL) - Análise de dados usando PostgreSQL.
+
+### 🎨 Visualization & BI Projects
+- [Projetos realizados no Power Bi](https://github.com/Bruxteclas/Analise-de-Dados-Power-Bi/tree/main) - Projetos de análise de dados no Power BI.
+
+### 🧠 Other Projects
+- [Programação Orientada com dados da ação da Coca-Cola](https://github.com/Bruxteclas/Programacao-orientada-a-objeto-Acoes-da-coca-cola-) - Análise orientada a objetos com dados de ações.
+- [RFV-e-Streamlit](https://github.com/Bruxteclas/RFV-e-Streamlit) - Projeto com Streamlit para RFV.
+- [telemarketing](https://github.com/Bruxteclas/telemarketing) - Análise de campanhas de telemarketing.
+- [Probabilidade com dados de peso de pacotes de ração](https://github.com/Bruxteclas/Probabilidade-) - Análise de probabilidades com dados de peso de pacotes de ração.
 
 ### 🔥Skills 
 <!-- Skills: Programming Languages -->
