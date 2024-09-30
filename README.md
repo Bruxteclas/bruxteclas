@@ -37,13 +37,13 @@
 - [Análise de Padrões de Inadimplência em dados de crédito](https://github.com/Bruxteclas/Analisando-Padroes-de-Inadimplencia-em-Dados-de-Credito) - Análise de padrões de inadimplência.
 - [Análise de Dados de Nascimento 2019](https://github.com/Bruxteclas/Analise-de-Dados-de-Nascimentos-em-2019) - Análise de dados demográficos de nascimentos.
 - [Análise Financeira e Visualização de Dados](https://github.com/Bruxteclas/Gr-ficos-interativos) - Análise financeira com gráficos interativos.
-- [Análise Educacional Saeb](https://github.com/Bruxteclas/Projeto-de-Analise-Educacional/tree/main) - Projeto de análise educacional com base em dados do Saeb.
 - [Projeto-Netflix](https://github.com/Bruxteclas/Projeto-Netflix) - Análise de dados de filmes e séries da Netflix.
 
 ### 📈 Regression Projects
 - [Regression Analysis](https://github.com/Bruxteclas/Analise-de-regressao) - Análise de regressão linear.
 - [Visualization of a Decision Tree for Regression](https://github.com/Bruxteclas/Visualiza-ao-de-uma-Arvore-de-Decisao-para-Regressao) - Visualização de uma árvore de decisão para regressão.
 - [Criação de uma Regressão Linear simples com dados de gorjetas](https://github.com/Bruxteclas/Regressao-Linear-Simples-Gorjetas) - Regressão linear simples com dados de gorjetas.
+- [Análise Educacional Saeb](https://github.com/Bruxteclas/Projeto-de-Analise-Educacional/tree/main) - Análise de desempenho educacional usando Regressão Linear
 
 ### 💻 Data Engineering & SQL Projects
 - [Analise-Credito-SQL-AWS](https://github.com/Bruxteclas/Analise-Credito-SQL-AWS) - Análise de crédito com SQL e AWS.
