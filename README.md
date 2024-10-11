@@ -51,6 +51,7 @@
 
 ### 🎨 Visualization & BI Projects
 - [Projetos realizados no Power Bi](https://github.com/Bruxteclas/Analise-de-Dados-Power-Bi/tree/main) - Projetos de análise de dados no Power BI.
+- [Projeto realizado no SQL e EXCEL](https://github.com/Bruxteclas/Analise-de-Vendas-usando-SQL-e-Excel) - Análise de Vendas usando SQl e EXCEL
 
 ### 🧠 Other Projects
 - [Programação Orientada com dados da ação da Coca-Cola](https://github.com/Bruxteclas/Programacao-orientada-a-objeto-Acoes-da-coca-cola-) - Análise orientada a objetos com dados de ações.
