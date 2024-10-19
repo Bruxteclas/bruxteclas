@@ -93,9 +93,7 @@ Programming Languages:
   <a href="https://www.linkedin.com/in/pauloteclas/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-<a href="https://www.kaggle.com/pauloesouza" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="35" alt="Kaggle logo" />
-  </a>
+
 
 ###
 
