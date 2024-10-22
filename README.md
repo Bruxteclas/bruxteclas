@@ -32,6 +32,7 @@
 - [Previsão de doenças Cardíacas](https://github.com/Bruxteclas/previsao-de-doencas-cardiacas) - Previsão de doenças cardíacas com machine learning.
 - [Classificação de Crédito](https://github.com/Bruxteclas/Classificacao-de-credito) - Modelo de classificação para crédito.
 - [Análise de Personalidade com Machine learning](https://github.com/Bruxteclas/Analise-de-Personalidade-com-Machine-Learning) - Estudo de personalidades usando machine learning.
+- [Análise de Dados de E-commerce Brasileiro](https://github.com/Bruxteclas/Analise-do-Conjunto-de-Dados-de-E-commerce) - Análise de Dados de E-commerce Brasileiro com ML
 
 ### 📊 Data Analysis Projects
 - [Análise de Padrões de Inadimplência em dados de crédito](https://github.com/Bruxteclas/Analisando-Padroes-de-Inadimplencia-em-Dados-de-Credito) - Análise de padrões de inadimplência.
