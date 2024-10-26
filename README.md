@@ -49,6 +49,7 @@
 ### 💻 Data Engineering & SQL Projects
 - [Analise-Credito-SQL-AWS](https://github.com/Bruxteclas/Analise-Credito-SQL-AWS) - Análise de crédito com SQL e AWS.
 - [Análise de Dados com PostgreSQL](https://github.com/Bruxteclas/Analise-de-dados-com-PostgreSQL) - Análise de dados usando PostgreSQL.
+- [Análise da taxa de Mortalidade Global](https://github.com/Bruxteclas/Analise-da-Taxa-de-Mortalidade-Global-Usando-AWS-e-SQL) Análise da Taxa de Mortalidade global usando AWS e SQL
 
 ### 🎨 Visualization & BI Projects
 - [Projetos realizados no Power Bi](https://github.com/Bruxteclas/Analise-de-Dados-Power-Bi/tree/main) - Projetos de análise de dados no Power BI.
