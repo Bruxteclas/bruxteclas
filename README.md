@@ -27,9 +27,10 @@
 
 ### 🌟 Machine Learning Projects
 - [Income Prediction Project](https://github.com/Bruxteclas/Projeto-previsao-de-renda) - Previsão de renda com variáveis qualitativas.
-- [Decision Tree Classification](https://github.com/Bruxteclas/arvore-de-classificacao) -  Classificação de Atividades Humanas com Árvore de Decisão
+- [Decision Tree Classification](https://github.com/Bruxteclas/arvore-de-classificacao) -  Classificação de Atividades Humanas com Árvore de Decisão.
 - [Income Prediction with Qualitative Variables](https://github.com/Bruxteclas/Prevendo-Renda-com-Variaveis-Qualitativas) - Projeto de previsão de renda com variáveis categóricas.
 - [Previsão de doenças Cardíacas](https://github.com/Bruxteclas/previsao-de-doencas-cardiacas) - Previsão de doenças cardíacas com machine learning.
+- [CreditRisckPrediction](https://github.com/Bruxteclas/CreditRiskPrediction) Modelo de Risco de Crédito com Machine Learning.
 - [Classificação de Crédito](https://github.com/Bruxteclas/Classificacao-de-credito) - Modelo de classificação para crédito.
 - [Análise de Personalidade com Machine learning](https://github.com/Bruxteclas/Analise-de-Personalidade-com-Machine-Learning) - Estudo de personalidades usando machine learning.
 - [Análise de Dados de E-commerce Brasileiro](https://github.com/Bruxteclas/Analise-do-Conjunto-de-Dados-de-E-commerce) - Análise de Dados de E-commerce Brasileiro com ML
