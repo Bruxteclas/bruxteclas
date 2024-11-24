@@ -41,6 +41,7 @@
 - [Análise de Dados de Nascimento 2019](https://github.com/Bruxteclas/Analise-de-Dados-de-Nascimentos-em-2019) - Análise de dados demográficos de nascimentos.
 - [Análise Financeira e Visualização de Dados](https://github.com/Bruxteclas/Gr-ficos-interativos) - Análise financeira com gráficos interativos.
 - [Projeto-Netflix](https://github.com/Bruxteclas/Projeto-Netflix) - Análise de dados de filmes e séries da Netflix.
+- [Análise de Teste A/B](https://github.com/Bruxteclas/Analise-de-Teste-A-B) Análise de Teste A/B: Impacto de Alterações de Design no Comportamento dos Usuários
 
 ### 📈 Regression Projects
 - [Regression Analysis](https://github.com/Bruxteclas/Analise-de-regressao) - Análise de regressão linear.
