@@ -1,7 +1,7 @@
-<div align="center">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <img src="https://assets-global.website-files.com/606907b169dcd481e8fd42c4/628fcc28ae967c5ccc32de0c_data-science.jpg" 
        alt="Data Science" 
-       style="width: 100%; height: auto; object-fit: cover;" />
+       style="width: 100%; height: auto; max-height: 90vh; object-fit: cover;" />
 </div>
 
 <h2 align="left">Hi 👋! My name is Paulo Eduardo, I am a Data Scientist, graduated from the British School of Creative Arts and Technologies (EBAC), and a Business Administration student at Esbam University Center.</h2>
