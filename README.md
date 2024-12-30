@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://assets-global.website-files.com/606907b169dcd481e8fd42c4/628fcc28ae967c5ccc32de0c_data-science.jpg" height="200" alt="Data Science" />
+  <img src="https://assets-global.website-files.com/606907b169dcd481e8fd42c4/628fcc28ae967c5ccc32de0c_data-science.jpg" 
+       alt="Data Science" 
+       style="width: 100%; height: auto; object-fit: cover;" />
 </div>
 
 <h2 align="left">Hi 👋! My name is Paulo Eduardo, I am a Data Scientist, graduated from the British School of Creative Arts and Technologies (EBAC), and a Business Administration student at Esbam University Center.</h2>
@@ -89,7 +91,13 @@ Programming Languages:
 </a>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="35" alt="Git logo" />
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="35" alt="Amazon AWS logo" />
+  <img src="https://github.com/user-attachments/assets/26007508-a546-474d-9800-fd54d33ab9e8" height="40" alt="Power BI logo" />
+  <img src="https://github.com/user-attachments/assets/11bf2753-234d-46e0-b818-0dc178c09a62" height="40" alt="Excel" />
+  <img src="https://github.com/user-attachments/assets/c2260bca-32de-4874-aef4-57693560b262" height="55" alt="Spark" />
+  
 </div>
+
+
 
 ###
 
