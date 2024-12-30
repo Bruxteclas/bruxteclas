@@ -57,6 +57,7 @@
 
 ### 🎨 Visualization & BI Projects
 - [Projetos realizados no Power Bi](https://github.com/Bruxteclas/Analise-de-Dados-Power-Bi/tree/main) - Projetos de análise de dados no Power BI.
+- [Recomendação e NPS](https://github.com/Bruxteclas/Recomendacao-e-NPS-BI) Análise de Satisfação e Recomendação de Clientes no Power BI
 - [Projeto de Prática com Power BI](https://github.com/Bruxteclas/Dashboard-de-Analise-de-Trancamentos-de-Cursos) Dashboard de Análise de Trancamentos de Cursos
 - [Projeto realizado no SQL e EXCEL](https://github.com/Bruxteclas/Analise-de-Vendas-usando-SQL-e-Excel) - Análise de Vendas usando SQl e EXCEL
 
