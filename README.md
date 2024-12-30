@@ -2,7 +2,7 @@
   <img src="https://assets-global.website-files.com/606907b169dcd481e8fd42c4/628fcc28ae967c5ccc32de0c_data-science.jpg" height="200" alt="Data Science" />
 </div>
 
-<h2 align="left">Hi 👋! My name is Paulo Eduardo, I am a Data Scientist, graduated from the British School of Creative Arts and Technologies (EBAC), and a Business Administration student at Escola Superior Batista do Amazonas (ESBAM).</h2>
+<h2 align="left">Hi 👋! My name is Paulo Eduardo, I am a Data Scientist, graduated from the British School of Creative Arts and Technologies (EBAC), and a Business Administration student at Esbam University Center.</h2>
 </p>
 
 <!-- Dropdown -->
