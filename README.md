@@ -45,6 +45,7 @@
 - [Análise Financeira e Visualização de Dados](https://github.com/Bruxteclas/Gr-ficos-interativos) - Análise financeira com gráficos interativos.
 - [Projeto-Netflix](https://github.com/Bruxteclas/Projeto-Netflix) - Análise de dados de filmes e séries da Netflix.
 - [Análise de Teste A/B](https://github.com/Bruxteclas/Analise-de-Teste-A-B) Análise de Teste A/B: Impacto de Alterações de Design no Comportamento dos Usuários
+- [Desafio House Rocket Company](https://github.com/Bruxteclas/Desafio-House-Rocket-Company) House Rocket - Análise Imobiliária com Dados
 
 ### 📈 Regression Projects
 - [Regression Analysis](https://github.com/Bruxteclas/Analise-de-regressao) - Análise de regressão linear.
