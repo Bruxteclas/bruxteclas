@@ -27,6 +27,9 @@
 <!-- Portfolio -->
 ## Portfolio:
 
+### 🤖 LLMs Engineering Projects
+- [Resumo de Documentos Jurídicos com OpenAI](https://github.com/Bruxteclas/Resumo-de-Documentos-Juridicos-com-OpenAI) - Projeto de resumo de documentos jurídicos utilizando modelos LLMs da OpenAI.
+
 ### 🌟 Machine Learning Projects
 - [Income Prediction Project](https://github.com/Bruxteclas/Projeto-previsao-de-renda) - Previsão de renda com variáveis qualitativas.
 - [Decision Tree Classification](https://github.com/Bruxteclas/arvore-de-classificacao) -  Classificação de Atividades Humanas com Árvore de Decisão.
