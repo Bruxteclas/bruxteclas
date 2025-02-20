@@ -30,6 +30,7 @@
 ### 🤖 LLMs Engineering Projects
 - [Resumo de Documentos Jurídicos com OpenAI](https://github.com/Bruxteclas/Resumo-de-Documentos-Juridicos-com-OpenAI) - Projeto de resumo de documentos jurídicos utilizando modelos LLMs da OpenAI.
 - [Projeto Gradio Chatbot](https://github.com/Bruxteclas/Gradio-ChatbotGradio) - Um chatbot interativo desenvolvido com Gradio
+- [Monitor de Concorrentes com LLMs e Gradio](https://github.com/Bruxteclas/Monitor-de-Concorrentes-com-LLMs-e-Gradio) - Monitoramento de sites de concorrentes usando Gradio e LLM
 
 ### 🌟 Machine Learning Projects
 - [Income Prediction Project](https://github.com/Bruxteclas/Projeto-previsao-de-renda) - Previsão de renda com variáveis qualitativas.
