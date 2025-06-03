@@ -73,6 +73,7 @@
 - [Projeto de Prática com Power BI](https://github.com/Bruxteclas/Dashboard-de-Analise-de-Trancamentos-de-Cursos) - Dashboard de Análise de Trancamentos de Cursos
 - [Projeto realizado no SQL e EXCEL](https://github.com/Bruxteclas/Analise-de-Vendas-usando-SQL-e-Excel) - Análise de Vendas usando SQL e EXCEL
 - [Dashboard Comercial](https://github.com/Bruxteclas/Dashboard-Comercial) - Dashboard Comercial desenvolvido no Power BI
+- [Dashboard Consultoria Empresarial](https://github.com/Bruxteclas/Tomada-de-Decisao-com-Base-em-Dados--A-Transformacao-da-Gestao-Administrativa) - A transformação da Gestão Administrativa
 
 ### 🧠 Other Projects
 - [Programação Orientada com dados da ação da Coca-Cola](https://github.com/Bruxteclas/Programacao-orientada-a-objeto-Acoes-da-coca-cola-) - Análise orientada a objetos com dados de ações.
