@@ -56,18 +56,11 @@ Combining both areas has allowed me to develop a technical and analytical profil
 ### 🧑‍🎓 Academic Projects
 - [Object-Oriented Programming with Coca-Cola Stock Data](https://github.com/Bruxteclas/Programacao-orientada-a-objeto-Acoes-da-coca-cola-) - Object-oriented analysis with stock data.    
 - [Telemarketing Campaign Analysis](https://github.com/Bruxteclas/telemarketing) - Analysis of telemarketing campaigns.  
-- [Probability Analysis with Pet Food Package Weight Data](https://github.com/Bruxteclas/Probabilidade-) - Probability analysis using pet food package weight data.  
-- [Decision Tree Classification](https://github.com/Bruxteclas/arvore-de-classificacao) - Human activity classification with decision trees.  
-- [Income Prediction with Qualitative Variables](https://github.com/Bruxteclas/Prevendo-Renda-com-Variaveis-Qualitativas) - Income prediction project using categorical variables.  
-- [Heart Disease Prediction](https://github.com/Bruxteclas/previsao-de-doencas-cardiacas) - Heart disease prediction using machine learning.  
+- [Probability Analysis with Pet Food Package Weight Data](https://github.com/Bruxteclas/Probabilidade-) - Probability analysis using pet food package weight data.   
 - [Credit Risk Prediction](https://github.com/Bruxteclas/CreditRiskPrediction) - Credit risk model using machine learning.  
 - [Credit Classification](https://github.com/Bruxteclas/Classificacao-de-credito) - Credit classification model.  
-- [Delinquency Pattern Analysis on Credit Data](https://github.com/Bruxteclas/Analisando-Padroes-de-Inadimplencia-em-Dados-de-Credito) - Analysis of delinquency patterns.  
-- [2019 Birth Data Analysis](https://github.com/Bruxteclas/Analise-de-Dados-de-Nascimentos-em-2019) - Demographic analysis of birth data.  
-- [Netflix Data Project](https://github.com/Bruxteclas/Projeto-Netflix) - Analysis of Netflix movies and series data.  
+- [Delinquency Pattern Analysis on Credit Data](https://github.com/Bruxteclas/Analisando-Padroes-de-Inadimplencia-em-Dados-de-Credito) - Analysis of delinquency patterns.   
 - [Regression Analysis](https://github.com/Bruxteclas/Analise-de-regressao) - Linear regression analysis.  
-- [Decision Tree Visualization for Regression](https://github.com/Bruxteclas/Visualiza-ao-de-uma-Arvore-de-Decisao-para-Regressao) - Visualization of a decision tree for regression.  
-- [Simple Linear Regression with Tip Data](https://github.com/Bruxteclas/Regressao-Linear-Simples-Gorjetas) - Simple linear regression with tipping data.  
 - [Credit Analysis with SQL and AWS](https://github.com/Bruxteclas/Analise-Credito-SQL-AWS) - Credit analysis using SQL and AWS.  
 - [Data Analysis with PostgreSQL](https://github.com/Bruxteclas/Analise-de-dados-com-PostgreSQL) - Data analysis using PostgreSQL.  
 - [Customer Satisfaction and Recommendation Analysis (NPS)](https://github.com/Bruxteclas/Recomendacao-e-NPS-BI) - Customer satisfaction and recommendation analysis in Power BI.  
