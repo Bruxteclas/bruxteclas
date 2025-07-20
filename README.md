@@ -4,19 +4,21 @@
        style="width: 100%; height: auto; max-height: 90vh; object-fit: cover;" />
 </div>
 
-<h2 align="left">Hi 👋! My name is Paulo Eduardo, I am a Data Scientist, graduated from the British School of Creative Arts and Technologies (EBAC), and a Business Administration student at Esbam University Center.</h2>
+<h2 align="left">Hi 👋! My name is Paulo Eduardo, I am a Data Scientist, graduated from the British School of Creative Arts and Technologies (EBAC), currently a Business Administration student at Esbam University Center, and also a Computer Science student at Martha Falcão Wyden.</h2>
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
   
- - 🌱 I am pursuing Business Administration at Esbam and, concurrently, I am enrolled in the professional Data Science course at Ebac.
+ - 🌱 I am currently pursuing a degree in Business Administration at Esbam University Center and studying Computer Science (distance learning) at Martha Falcão Wyden. I have also completed a professional Data Science program at EBAC (British School of Creative Arts and Technologies).
+I chose to study Computer Science to strengthen my technical foundation in technology, focusing on programming, algorithms, and data structures—essential skills for excelling in the data science field. The distance learning format gives me the flexibility to manage my studies without affecting my professional availability. I’m balancing this with my Business Administration degree, which is nearing completion (approximately 1.5 years remaining). I believe this education complements my data work by providing a strategic understanding of business, management, and finance—key elements for turning data into actionable insights.
+Combining both areas has allowed me to develop a technical and analytical profile with a practical focus on delivering results and creating value through data analysis.
   
  - 🔭 I am seeking my first job opportunity in the field of Data Science and Data Analysis.
   </p>
   
- - 💬I am 20 years old and currently reside in Brazil. I have basic proficiency in Spanish and experience in Python, Data Analysis, Data Visualization, and Machine Learning. Additionally, I am a musician, which has endowed me with valuable skills such as keen pattern recognition, meticulous analysis, and a creative approach—aptitudes seamlessly intertwined with the realm of data science.
+ - 💬I am 22 years old and currently reside in Brazil. I have basic proficiency in Spanish and experience in Python, Data Analysis, Data Visualization, and Machine Learning. Additionally, I am a musician, which has endowed me with valuable skills such as keen pattern recognition, meticulous analysis, and a creative approach—aptitudes seamlessly intertwined with the realm of data science.
  - ⚡ In my leisure time, I enjoy playing football, indulging in video games, and playing the piano! 🎹 I am convinced that our individual interests not only enhance our understanding of the world but also play a fundamental role in tackling challenges.
 </details>
 
@@ -28,58 +30,52 @@
 ## Portfolio:
 
 ### 🤖 LLMs Engineering Projects
-- [Resumo de Documentos Jurídicos com OpenAI](https://github.com/Bruxteclas/Resumo-de-Documentos-Juridicos-com-OpenAI) - Projeto de resumo de documentos jurídicos utilizando modelos LLMs da OpenAI.
-- [Projeto Gradio Chatbot](https://github.com/Bruxteclas/Gradio-ChatbotGradio) - Um chatbot interativo desenvolvido com Gradio
-- [Monitor de Concorrentes com LLMs e Gradio](https://github.com/Bruxteclas/Monitor-de-Concorrentes-com-LLMs-e-Gradio) - Monitoramento de sites de concorrentes usando Gradio e LLM
-- [Assistente de IA para Companhia Area](https://github.com/Bruxteclas/Assistente-de-IA-para-Companhia-A-rea) - Assistente Virtual de Viagens
+- [Legal Document Summarization with OpenAI](https://github.com/Bruxteclas/Resumo-de-Documentos-Juridicos-com-OpenAI) - Legal document summarization project using OpenAI LLM models.  
+- [Gradio Chatbot Project](https://github.com/Bruxteclas/Gradio-ChatbotGradio) - An interactive chatbot developed with Gradio.  
+- [Competitor Monitoring with LLMs and Gradio](https://github.com/Bruxteclas/Monitor-de-Concorrentes-com-LLMs-e-Gradio) - Competitor website monitoring using Gradio and LLMs.  
+- [AI Assistant for Airline Company](https://github.com/Bruxteclas/Assistente-de-IA-para-Companhia-A-rea) - Virtual travel assistant.  
+
 
 ### 🌟 Machine Learning Projects
-- [Income Prediction Project](https://github.com/Bruxteclas/Projeto-previsao-de-renda) - Previsão de renda com variáveis qualitativas.
-- [Decision Tree Classification](https://github.com/Bruxteclas/arvore-de-classificacao) -  Classificação de Atividades Humanas com Árvore de Decisão.
-- [Income Prediction with Qualitative Variables](https://github.com/Bruxteclas/Prevendo-Renda-com-Variaveis-Qualitativas) - Projeto de previsão de renda com variáveis categóricas.
-- [Previsão de doenças Cardíacas](https://github.com/Bruxteclas/previsao-de-doencas-cardiacas) - Previsão de doenças cardíacas com machine learning.
-- [CreditRisckPrediction](https://github.com/Bruxteclas/CreditRiskPrediction) Modelo de Risco de Crédito com Machine Learning.
-- [Classificação de Crédito](https://github.com/Bruxteclas/Classificacao-de-credito) - Modelo de classificação para crédito.
-- [Análise de Personalidade com Machine learning](https://github.com/Bruxteclas/Analise-de-Personalidade-com-Machine-Learning) - Estudo de personalidades usando machine learning.
-- [Análise de Dados de E-commerce Brasileiro](https://github.com/Bruxteclas/Analise-do-Conjunto-de-Dados-de-E-commerce) - Análise de Dados de E-commerce Brasileiro com ML
-- [Previsão de Doenças com AutoGluon](https://github.com/Bruxteclas/diagnostico-inteligente) - Diagnóstico Inteligente de Doenças com Machine Learning e Streamlit
-- [Detecção de Fraude](https://github.com/Bruxteclas/Deteccao-de-Fraude) - Sistema de Detecção de Fraudes com Machine Learning
+- [Personality Analysis with Machine Learning](https://github.com/Bruxteclas/Analise-de-Personalidade-com-Machine-Learning) - Personality study using machine learning.  
+- [Brazilian E-commerce Data Analysis](https://github.com/Bruxteclas/Analise-do-Conjunto-de-Dados-de-E-commerce) - Brazilian e-commerce data analysis with ML.  
+- [Disease Prediction with AutoGluon](https://github.com/Bruxteclas/diagnostico-inteligente) - Intelligent disease diagnosis using machine learning and Streamlit.  
+- [Educational Analysis with Saeb](https://github.com/Bruxteclas/Projeto-de-Analise-Educacional/tree/main) - Educational performance analysis using linear regression.  
 
 ### 📊 Data Analysis Projects
-- [Análise de Padrões de Inadimplência em dados de crédito](https://github.com/Bruxteclas/Analisando-Padroes-de-Inadimplencia-em-Dados-de-Credito) - Análise de padrões de inadimplência.
-- [Análise de Dados de Nascimento 2019](https://github.com/Bruxteclas/Analise-de-Dados-de-Nascimentos-em-2019) - Análise de dados demográficos de nascimentos.
-- [Análise Financeira e Visualização de Dados](https://github.com/Bruxteclas/Gr-ficos-interativos) - Análise financeira com gráficos interativos.
-- [Projeto-Netflix](https://github.com/Bruxteclas/Projeto-Netflix) - Análise de dados de filmes e séries da Netflix.
-- [Análise de Teste A/B](https://github.com/Bruxteclas/Analise-de-Teste-A-B) - Análise de Teste A/B: Impacto de Alterações de Design no Comportamento dos Usuários
 - [Desafio House Rocket Company](https://github.com/Bruxteclas/Desafio-House-Rocket-Company) - House Rocket - Análise Imobiliária com Dados
 - [CRM Analysis](https://github.com/Bruxteclas/CRM-Analysis) - Análise de Vendas e Performance Comercial com SQL no Databricks: `Foco em CRM`
-
-### 📈 Regression Projects
-- [Regression Analysis](https://github.com/Bruxteclas/Analise-de-regressao) - Análise de regressão linear.
-- [Visualization of a Decision Tree for Regression](https://github.com/Bruxteclas/Visualiza-ao-de-uma-Arvore-de-Decisao-para-Regressao) - Visualização de uma árvore de decisão para regressão.
-- [Criação de uma Regressão Linear simples com dados de gorjetas](https://github.com/Bruxteclas/Regressao-Linear-Simples-Gorjetas) - Regressão linear simples com dados de gorjetas.
-- [Análise Educacional Saeb](https://github.com/Bruxteclas/Projeto-de-Analise-Educacional/tree/main) - Análise de desempenho educacional usando Regressão Linear
-
-### 💻 Data Engineering & SQL Projects
-- [Analise-Credito-SQL-AWS](https://github.com/Bruxteclas/Analise-Credito-SQL-AWS) - Análise de crédito com SQL e AWS.
-- [Análise de Dados com PostgreSQL](https://github.com/Bruxteclas/Analise-de-dados-com-PostgreSQL) - Análise de dados usando PostgreSQL.
 - [Análise da taxa de Mortalidade Global](https://github.com/Bruxteclas/Analise-da-Taxa-de-Mortalidade-Global-Usando-AWS-e-SQL) Análise da Taxa de Mortalidade global usando AWS e SQL
 
 ### 🎨 Visualization & BI Projects
-- [Recomendação e NPS](https://github.com/Bruxteclas/Recomendacao-e-NPS-BI) - Análise de Satisfação e Recomendação de Clientes no Power BI
-- [Visualização BI Varejo](https://github.com/Bruxteclas/Visualizacao-Varejo-BI) - Análise de Vendas do Grupo Varejista no Power BI
-- [Pesquisa de Mercado BI](https://github.com/Bruxteclas/Pesquisa-de-Mercado) - Análise de Pesquisa de Mercado de Refrigerantes no Power BI
-- [Análise de Vacinação BI](https://github.com/Bruxteclas/Analise-de-Vacinacao-do-Estado-de-PE) - Análise de Vacinação do Estado de Pernambuco
 - [Projeto de Prática com Power BI](https://github.com/Bruxteclas/Dashboard-de-Analise-de-Trancamentos-de-Cursos) - Dashboard de Análise de Trancamentos de Cursos
 - [Projeto realizado no SQL e EXCEL](https://github.com/Bruxteclas/Analise-de-Vendas-usando-SQL-e-Excel) - Análise de Vendas usando SQL e EXCEL
 - [Dashboard Comercial](https://github.com/Bruxteclas/Dashboard-Comercial) - Dashboard Comercial desenvolvido no Power BI
 - [Dashboard Consultoria Empresarial](https://github.com/Bruxteclas/Tomada-de-Decisao-com-Base-em-Dados--A-Transformacao-da-Gestao-Administrativa) - A transformação da Gestão Administrativa
 
-### 🧠 Other Projects
-- [Programação Orientada com dados da ação da Coca-Cola](https://github.com/Bruxteclas/Programacao-orientada-a-objeto-Acoes-da-coca-cola-) - Análise orientada a objetos com dados de ações.
-- [RFV-e-Streamlit](https://github.com/Bruxteclas/RFV-e-Streamlit) - Projeto com Streamlit para RFV.
-- [telemarketing](https://github.com/Bruxteclas/telemarketing) - Análise de campanhas de telemarketing.
-- [Probabilidade com dados de peso de pacotes de ração](https://github.com/Bruxteclas/Probabilidade-) - Análise de probabilidades com dados de peso de pacotes de ração.
+### 🧑‍🎓 Academic Projects
+- [Object-Oriented Programming with Coca-Cola Stock Data](https://github.com/Bruxteclas/Programacao-orientada-a-objeto-Acoes-da-coca-cola-) - Object-oriented analysis with stock data.  
+- [RFV and Streamlit Project](https://github.com/Bruxteclas/RFV-e-Streamlit) - RFV project using Streamlit.  
+- [Telemarketing Campaign Analysis](https://github.com/Bruxteclas/telemarketing) - Analysis of telemarketing campaigns.  
+- [Probability Analysis with Pet Food Package Weight Data](https://github.com/Bruxteclas/Probabilidade-) - Probability analysis using pet food package weight data.  
+- [Decision Tree Classification](https://github.com/Bruxteclas/arvore-de-classificacao) - Human activity classification with decision trees.  
+- [Income Prediction with Qualitative Variables](https://github.com/Bruxteclas/Prevendo-Renda-com-Variaveis-Qualitativas) - Income prediction project using categorical variables.  
+- [Heart Disease Prediction](https://github.com/Bruxteclas/previsao-de-doencas-cardiacas) - Heart disease prediction using machine learning.  
+- [Credit Risk Prediction](https://github.com/Bruxteclas/CreditRiskPrediction) - Credit risk model using machine learning.  
+- [Credit Classification](https://github.com/Bruxteclas/Classificacao-de-credito) - Credit classification model.  
+- [Delinquency Pattern Analysis on Credit Data](https://github.com/Bruxteclas/Analisando-Padroes-de-Inadimplencia-em-Dados-de-Credito) - Analysis of delinquency patterns.  
+- [2019 Birth Data Analysis](https://github.com/Bruxteclas/Analise-de-Dados-de-Nascimentos-em-2019) - Demographic analysis of birth data.  
+- [Netflix Data Project](https://github.com/Bruxteclas/Projeto-Netflix) - Analysis of Netflix movies and series data.  
+- [Regression Analysis](https://github.com/Bruxteclas/Analise-de-regressao) - Linear regression analysis.  
+- [Decision Tree Visualization for Regression](https://github.com/Bruxteclas/Visualiza-ao-de-uma-Arvore-de-Decisao-para-Regressao) - Visualization of a decision tree for regression.  
+- [Simple Linear Regression with Tip Data](https://github.com/Bruxteclas/Regressao-Linear-Simples-Gorjetas) - Simple linear regression with tipping data.  
+- [Credit Analysis with SQL and AWS](https://github.com/Bruxteclas/Analise-Credito-SQL-AWS) - Credit analysis using SQL and AWS.  
+- [Data Analysis with PostgreSQL](https://github.com/Bruxteclas/Analise-de-dados-com-PostgreSQL) - Data analysis using PostgreSQL.  
+- [Customer Satisfaction and Recommendation Analysis (NPS)](https://github.com/Bruxteclas/Recomendacao-e-NPS-BI) - Customer satisfaction and recommendation analysis in Power BI.  
+- [Retail BI Visualization](https://github.com/Bruxteclas/Visualizacao-Varejo-BI) - Retail group sales analysis in Power BI.  
+- [Market Research BI](https://github.com/Bruxteclas/Pesquisa-de-Mercado) - Market research analysis of soft drinks in Power BI.  
+- [Vaccination Analysis BI](https://github.com/Bruxteclas/Analise-de-Vacinacao-do-Estado-de-PE) - Vaccination analysis for the state of Pernambuco.  
+
 
 ### 🔥Skills 
 <!-- Skills: Programming Languages -->
