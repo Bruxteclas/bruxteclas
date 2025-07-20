@@ -54,8 +54,7 @@ Combining both areas has allowed me to develop a technical and analytical profil
 - [Dashboard Consultoria Empresarial](https://github.com/Bruxteclas/Tomada-de-Decisao-com-Base-em-Dados--A-Transformacao-da-Gestao-Administrativa) - A transformação da Gestão Administrativa
 
 ### 🧑‍🎓 Academic Projects
-- [Object-Oriented Programming with Coca-Cola Stock Data](https://github.com/Bruxteclas/Programacao-orientada-a-objeto-Acoes-da-coca-cola-) - Object-oriented analysis with stock data.  
-- [RFV and Streamlit Project](https://github.com/Bruxteclas/RFV-e-Streamlit) - RFV project using Streamlit.  
+- [Object-Oriented Programming with Coca-Cola Stock Data](https://github.com/Bruxteclas/Programacao-orientada-a-objeto-Acoes-da-coca-cola-) - Object-oriented analysis with stock data.    
 - [Telemarketing Campaign Analysis](https://github.com/Bruxteclas/telemarketing) - Analysis of telemarketing campaigns.  
 - [Probability Analysis with Pet Food Package Weight Data](https://github.com/Bruxteclas/Probabilidade-) - Probability analysis using pet food package weight data.  
 - [Decision Tree Classification](https://github.com/Bruxteclas/arvore-de-classificacao) - Human activity classification with decision trees.  
