@@ -76,10 +76,6 @@ Programming Languages:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
 </div>
 
-<!-- PostgreSQL Badge -->
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="PostgreSQL badge" />
-
-
 ### 💻Tools and Frameworks
 
 <div align="left">
@@ -92,7 +88,8 @@ Programming Languages:
   <img src="https://github.com/user-attachments/assets/26007508-a546-474d-9800-fd54d33ab9e8" height="40" alt="Power BI logo" />
   <img src="https://github.com/user-attachments/assets/11bf2753-234d-46e0-b818-0dc178c09a62" height="40" alt="Excel" />
   <img src="https://github.com/user-attachments/assets/c2260bca-32de-4874-aef4-57693560b262" height="55" alt="Spark" />
-  
+  <!-- PostgreSQL Badge -->
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="PostgreSQL badge" />
 </div>
 
 
