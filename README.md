@@ -4,16 +4,18 @@
        style="width: 100%; height: auto; max-height: 90vh; object-fit: cover;" />
 </div>
 
-<h2 align="left">Hi 👋! My name is Paulo Eduardo, I am a Data Scientist, graduated from the British School of Creative Arts and Technologies (EBAC), currently a Business Administration student at Esbam University Center, and also a Computer Science student at Martha Falcão Wyden.</h2>
+<h2 align="left">Hi 👋! My name is Paulo Eduardo, I am a Data Scientist, graduated from the British School of Creative Arts and Technologies (EBAC), and currently a Business Administration student at Esbam University Center. </h2>
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
   
- - 🌱 I am currently pursuing a degree in Business Administration at Esbam University Center and studying Computer Science (distance learning) at Martha Falcão Wyden. I have also completed a professional Data Science program at EBAC (British School of Creative Arts and Technologies).
-I chose to study Computer Science to strengthen my technical foundation in technology, focusing on programming, algorithms, and data structures—essential skills for excelling in the data science field. The distance learning format gives me the flexibility to manage my studies without affecting my professional availability. I’m balancing this with my Business Administration degree, which is nearing completion (approximately 1.5 years remaining). I believe this education complements my data work by providing a strategic understanding of business, management, and finance—key elements for turning data into actionable insights.
-Combining both areas has allowed me to develop a technical and analytical profile with a practical focus on delivering results and creating value through data analysis.
+ - 🌱  I am currently pursuing a degree in Business Administration at Esbam University Center. I have also completed a professional Data Science program at EBAC (British School of Creative Arts and Technologies).
+
+My Business Administration degree, which is nearing completion (approximately 1.5 years remaining), complements my data work by providing a strategic understanding of business, management, and finance—key elements for turning data into actionable insights.
+
+This combination has allowed me to develop an analytical profile with a practical focus on delivering results and creating value through data analysis.
   
  - 🔭 I am seeking my first job opportunity in the field of Data Science and Data Analysis.
   </p>
