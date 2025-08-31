@@ -17,10 +17,11 @@ My Business Administration degree, which is nearing completion (approximately 1.
 
 This combination has allowed me to develop an analytical profile with a practical focus on delivering results and creating value through data analysis.
   
- - 🔭 I am seeking my first job opportunity in the field of Data Science and Data Analysis.
+ - 🔭 I currently work as a BI Analyst in the Business and Market Intelligence (IN&M) area at Rede Amazônica, a subsidiary of Rede Globo.
   </p>
   
- - 💬I am 22 years old and currently reside in Brazil. I have basic proficiency in Spanish and experience in Python, Data Analysis, Data Visualization, and Machine Learning. Additionally, I am a musician, which has endowed me with valuable skills such as keen pattern recognition, meticulous analysis, and a creative approach—aptitudes seamlessly intertwined with the realm of data science.
+ - 💬I am 22 years old and currently reside in Brazil. I have experience in Python, Data Analysis, Data Visualization, and Machine Learning. Additionally, I am a musician, which has endowed me with valuable skills such as keen pattern recognition, meticulous analysis, and a creative approach—aptitudes seamlessly intertwined with the realm of data science
+   
  - ⚡ In my leisure time, I enjoy playing football, indulging in video games, and playing the piano! 🎹 I am convinced that our individual interests not only enhance our understanding of the world but also play a fundamental role in tackling challenges.
 </details>
 
